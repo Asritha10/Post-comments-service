@@ -1,4 +1,7 @@
 # Post-comments-service
+
+Post Your Thoughts is a simple web application designed to allow users to create posts and engage in discussions through comments. Built using React.js for the frontend and a lightweight backend, it offers a seamless experience for posting and commenting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/).
