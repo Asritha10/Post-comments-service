@@ -38,17 +38,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### 'User Interface'
+## User Interface
 
 ![image](https://github.com/Asritha10/Post-comments-service/assets/95580777/3a6f08b8-9fe0-4607-87ce-f2db7fd0b425)
 
-### 'Delete the comment by clicking delete button'
+## Delete the comment by clicking delete button
 
 ![image](https://github.com/Asritha10/Post-comments-service/assets/95580777/630c4a8d-d764-48c4-90b9-9a31da3f123c)
 
-### 'Update your comment'
+## Update your comment
 
-**This is an enhanced feature of this service.**
+### This is an enhanced feature of this service.
 
 <img width="1396" alt="Screenshot 2024-05-14 at 2 24 09 PM" src="https://github.com/Asritha10/Post-comments-service/assets/95580777/fea3cd3f-ebcb-4aee-aba7-b801652010e5">
 
